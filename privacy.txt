@@ -1,0 +1,25 @@
+Effective Date: May 20, 2025
+
+1. Data We Access
+Our app connects to your Microsoft Entra ID tenant using OAuth 2.0. Depending on the automation, we may access:
+
+Profile Information: User ID, name, and email address.
+
+Directory Data: Metadata required for the specific automation.
+
+Authentication Tokens: We store encrypted refresh tokens to maintain the automation without requiring you to log in repeatedly.
+
+2. How We Use Data
+We use the data retrieved from Microsoft Entra ID exclusively to execute the automations you have configured.
+
+We do not sell your data to third parties.
+
+We do not use your directory data for advertising or profiling.
+
+3. Data Retention
+Logs: We may keep execution logs for 30 days to help you troubleshoot automation failures.
+
+Revocation: You can revoke our access at any time via the Microsoft MyApps portal or by deleting the Enterprise Application in your Azure Portal. Upon deletion, all associated tokens and configurations in our database will be purged.
+
+4. Third-Party Services
+The data is processed via Microsoft’s APIs. Your data is subject to Microsoft’s Privacy Statement.
