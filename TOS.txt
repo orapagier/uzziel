@@ -1,0 +1,17 @@
+Effective Date: May 20, 2025
+
+1. Acceptance of Terms
+By connecting your Microsoft Entra ID account to ramlej, you agree to be bound by these Terms. If you are using the Service on behalf of an organization, you represent that you have the authority to bind that entity to these terms.
+
+2. Description of Service
+ramlej provides automation services by interacting with your Microsoft 365/Azure environment via the Microsoft Graph API. The Service requires specific permissions granted through your Entra ID tenant to perform its functions.
+
+3. User Responsibilities
+Authorization: You are responsible for ensuring that the administrative consent granted to this app aligns with your organization’s security policies.
+
+Security: You must maintain the security of your Entra ID credentials. We never see or store your primary password.
+
+Acceptable Use: You agree not to use the automation to engage in illegal activities, spamming, or actions that violate Microsoft’s Service Agreement.
+
+4. Limitation of Liability
+To the maximum extent permitted by law, ramlej developers shall not be liable for any data loss, service interruptions, or unauthorized access to your Entra ID tenant resulting from the use of this automation.
